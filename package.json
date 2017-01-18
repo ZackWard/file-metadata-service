@@ -1,0 +1,25 @@
+{
+  "name": "file-metadata-service",
+  "version": "0.0.1",
+  "description": "Free Code Camp File Metadata Service Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZackWard/file-metadata-service.git"
+  },
+  "author": "Zack Ward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZackWard/file-metadata-service/issues"
+  },
+  "homepage": "https://github.com/ZackWard/file-metadata-service#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "helmet": "^3.4.0",
+    "multer": "^1.2.1"
+  },
+  "devDependencies": {}
+}
